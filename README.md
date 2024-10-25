@@ -1,4 +1,5 @@
 # OFFENSIVE-FORENSICS
+#By Mudassir Alam
 # Volatility 3: The volatile memory extraction framework
 
 Volatility is the world's most widely used framework for extracting digital
